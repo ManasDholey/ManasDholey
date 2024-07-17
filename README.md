@@ -9,8 +9,7 @@
 💬 Ask me about **Asp.net, Asp.net MVC,.net5,.net6  c#, Sql Server,  angular,REST API, Node.js, React, MySql... or anything [here](https://github.com/ManashDholey/ManashDholey/issues)**
 
  </div>
-
-<p align="left"> <a href="https://twitter.com/@manashdholey" target="blank"><img src="https://img.shields.io/twitter/follow/@manashdholey?logo=twitter&style=for-the-badge" alt="@manashdholey" /></a> </p>
+<br/>
 
 <div align="center"> 
   <a href="mailto:chottu.dholey52@gmail.com">
@@ -20,8 +19,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://stackoverflow.com/users/10085262" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10085262"  />
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" />
   </a>
+    <a href="https://twitter.com/@manashdholey" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@manashdholey" />
+    </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +31,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ManashDholey/ManashDholey/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ManashDholey/ManashDholey/main/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
